@@ -3,7 +3,7 @@
 > 一个面向入门学习的互动静态网站练手项目，用来练习页面设计、网页动画、原生 JavaScript 交互和静态站点部署。
 
 **项目状态：** 学习项目，持续完善中  
-**在线预览：** 部署后在这里补充公开访问地址
+**在线预览：** [https://jlingliuCV.github.io/Ripples-of-the-Past/](https://jlingliuCV.github.io/Ripples-of-the-Past/)
 
 ## 项目简介
 
